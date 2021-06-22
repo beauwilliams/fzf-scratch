@@ -1,4 +1,4 @@
-#  fzf-scratch
+#  fzf-scratch [alpha]
 
 ## A searchable list of scratch notes leveraging fzf. 
 ## Create notes on the fly. 
